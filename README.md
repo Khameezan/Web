@@ -1,6 +1,6 @@
 # Web
 
-This project demonstrates a simple 3D real estate viewer built with Three.js. It includes a Jest + Puppeteer test that performs a sanity check on the viewer's initialization.
+This project demonstrates a simple 3D real estate viewer built with plain Canvas APIs so it can run without network access. It includes a Jest + Puppeteer test that performs a sanity check on the viewer's initialization.
 
 ## Installation
 
